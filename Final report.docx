@@ -1,5 +1,5 @@
 Final Report – IS Project Management Practice
-1. Introduction
+##Introduction
 
 This project focused on learning and applying basic project management
 concepts by using digital collaboration tools. The main goal was to plan,
@@ -9,14 +9,15 @@ The tools used in this project were Trello for task management and GitHub for fi
 The project involved creating a task board, assigning responsibilities,
 tracking progress, and managing documents through an online repository.
 
-2. Objectives
+##Objectives
 Organize project activities using digital tools
 Assign tasks and manage team responsibilities
 Track progress throughout the project lifecycle
 Use version control to manage project files
 Complete all project deliverables on time
-3. Tools Used
-3.1 Trello
+
+##Tools Used
+#Trello
 
 Trello was used to create a visual workflow for managing project tasks. It helped the team:
 
@@ -28,7 +29,7 @@ Communicate through comments and attachments
 
 This improved task clarity and helped ensure that all work was completed on time.
 
-3.2 GitHub
+#GitHub
 
 GitHub was used to store and manage project documents. It provided:
 
@@ -39,7 +40,7 @@ A structured workflow for updating documents
 
 GitHub ensured that all team members worked with the most up-to-date documents and reduced the risk of file loss.
 
-4. Work Completed
+##Work Completed
 
 The following tasks were completed during the project:
 
@@ -53,7 +54,7 @@ Completed and uploaded the final report
 
 All tasks were assigned to specific team members, and progress was monitored regularly using the task board.
 
-5. Benefits of Using These Tools
+##Benefits of Using These Tools
 
 Using Trello and GitHub provided several benefits:
 
@@ -65,7 +66,7 @@ Transparent tracking of progress and contributions
 
 These tools helped the team stay organized and complete the project efficiently.
 
-6. Challenges and Lessons Learned
+##Challenges and Lessons Learned
 
 Some challenges faced during the project included:
 
@@ -77,7 +78,8 @@ Lessons learned:
 Early planning and clear communication are essential
 Digital tools make project management more efficient
 Dividing tasks clearly improves productivity
-7. Conclusion
+
+##Conclusion
 
 This project demonstrated how digital tools can effectively support project management.
 By using Trello for task tracking and GitHub for collaboration and version control,
