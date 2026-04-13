@@ -4,11 +4,14 @@ This project demonstrates basic project management practices using digital tools
 It focuses on task organization, collaboration, and document management.
 
 ##Tools Used
+
 Trello – for task management and progress tracking
 
 GitHub – for version control and file sharing
 
+
 ##Project Features
+
 
 Task planning and assignment
 
@@ -20,7 +23,9 @@ Project scheduling
 
 Team collaboration
 
+
 ##Project Structure
+
 
 Project Proposal
 
@@ -30,7 +35,9 @@ Risk Management Document
 
 Final Report
 
+
 ##How to Use
+
 
 View project tasks on Trello
 
